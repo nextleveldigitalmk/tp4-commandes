@@ -1,0 +1,58 @@
+[
+  {
+    "id": 10,
+    "name": "Laptop",
+    "category": "Informatique",
+    "price": 8500,
+    "stock": 8
+  },
+  {
+    "id": 11,
+    "name": "Souris Sans Fil",
+    "category": "Informatique",
+    "price": 180,
+    "stock": 25
+  },
+  {
+    "id": 12,
+    "name": "Clavier Gamer",
+    "category": "Informatique",
+    "price": 450,
+    "stock": 12
+  },
+  {
+    "id": 13,
+    "name": "Écran 27 Pouces",
+    "category": "Informatique",
+    "price": 2200,
+    "stock": 6
+  },
+  {
+    "id": 14,
+    "name": "Chaise Ergonomique",
+    "category": "Mobilier",
+    "price": 1500,
+    "stock": 5
+  },
+  {
+    "id": 15,
+    "name": "Bureau Réglable",
+    "category": "Mobilier",
+    "price": 3100,
+    "stock": 3
+  },
+  {
+    "id": 16,
+    "name": "Cafetière Expresso",
+    "category": "Electroménager",
+    "price": 1200,
+    "stock": 10
+  },
+  {
+    "id": 17,
+    "name": "Lampe de Bureau LED",
+    "category": "Mobilier",
+    "price": 250,
+    "stock": 15
+  }
+]

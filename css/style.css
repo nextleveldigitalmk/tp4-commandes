@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card {
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+.card:hover {
+    border-color: #dc3545 !important;
+}

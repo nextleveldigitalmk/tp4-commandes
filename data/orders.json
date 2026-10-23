@@ -1,0 +1,96 @@
+[
+  {
+    "id": 101,
+    "customerId": 1,
+    "status": "Livree",
+    "date": "2026-10-10",
+    "items": [
+      { "productId": 10, "quantity": 1 },
+      { "productId": 11, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 102,
+    "customerId": 2,
+    "status": "En attente",
+    "date": "2026-10-12",
+    "items": [
+      { "productId": 14, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 103,
+    "customerId": 3,
+    "status": "Annulee",
+    "date": "2026-10-05",
+    "items": [
+      { "productId": 16, "quantity": 1 },
+      { "productId": 11, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 104,
+    "customerId": 4,
+    "status": "Livree",
+    "date": "2026-10-14",
+    "items": [
+      { "productId": 13, "quantity": 1 },
+      { "productId": 12, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 105,
+    "customerId": 5,
+    "status": "En attente",
+    "date": "2026-10-15",
+    "items": [
+      { "productId": 15, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 106,
+    "customerId": 6,
+    "status": "Livree",
+    "date": "2026-10-16",
+    "items": [
+      { "productId": 17, "quantity": 3 }
+    ]
+  },
+  {
+    "id": 107,
+    "customerId": 1,
+    "status": "En attente",
+    "date": "2026-10-17",
+    "items": [
+      { "productId": 12, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 108,
+    "customerId": 3,
+    "status": "Livree",
+    "date": "2026-10-08",
+    "items": [
+      { "productId": 10, "quantity": 1 }
+    ]
+  },
+  {
+    "id": 109,
+    "customerId": 2,
+    "status": "Annulee",
+    "date": "2026-10-09",
+    "items": [
+      { "productId": 14, "quantity": 2 }
+    ]
+  },
+  {
+    "id": 110,
+    "customerId": 4,
+    "status": "Livree",
+    "date": "2026-10-18",
+    "items": [
+      { "productId": 16, "quantity": 1 },
+      { "productId": 11, "quantity": 1 }
+    ]
+  }
+]

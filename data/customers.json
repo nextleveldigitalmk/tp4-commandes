@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Khalil Sebbagh",
+    "city": "Marrakech",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Karim Benjelloun",
+    "city": "Casablanca",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Youssef alami",
+    "city": "Rabat",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Fatima Zahra",
+    "city": "Marrakech",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Mehdi Tazi",
+    "city": "Fes",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Salma Bennani",
+    "city": "Tangier",
+    "active": true
+  }
+]
